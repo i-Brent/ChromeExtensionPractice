@@ -12,4 +12,4 @@ let page = document.getElementById('buttonDiv');
       page.appendChild(button);
     }
   }
-  constructOptions(kButtonColors);
+constructOptions(kButtonColors);
